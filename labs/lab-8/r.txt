@@ -1,0 +1,6 @@
+Average review is: 3.42
+5-Star Reviews: **************
+4-Star Reviews: ***********
+3-Star Reviews: **********
+2-Star Reviews: *********
+1-Star Reviews: ****
