@@ -1,0 +1,47 @@
+CS21 Grade Summary
+
+As: 5
+Bs: 18
+Cs: 3
+Ds: 2
+Fs: 1
+
+Students receiving each grade
+A
+Jack Shepherd 
+Charlotte Lewis 
+Danielle Rousseau 
+Anthony Cooper 
+John Locke 
+
+B
+Penny Widmore 
+Boone Carlyle 
+Shannon Rutherford 
+Michael Dawson 
+Claire Littleton 
+Sayid Jarrah 
+Juliett Burke 
+Sun-Hwa Kwon 
+Frank Lapidus 
+Richard Alpert 
+Miles Straume 
+Ben Linus 
+Kate Austin 
+Charlie Pace 
+Desmond Hume 
+Nikki Fernandez 
+James Ford 
+Jacob 
+
+C
+Anna Lucia Cortez 
+Walt Lloyd 
+Daniel Farraday 
+
+D
+Hugo Reyes 
+Jin-Soo Kwon 
+
+F
+Ethan Rom 
